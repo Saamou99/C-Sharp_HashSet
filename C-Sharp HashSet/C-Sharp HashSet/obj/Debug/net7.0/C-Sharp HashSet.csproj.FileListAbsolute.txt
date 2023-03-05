@@ -1,0 +1,15 @@
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\bin\Debug\net7.0\C-Sharp HashSet.exe
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\bin\Debug\net7.0\C-Sharp HashSet.deps.json
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\bin\Debug\net7.0\C-Sharp HashSet.runtimeconfig.json
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\bin\Debug\net7.0\C-Sharp HashSet.dll
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\bin\Debug\net7.0\C-Sharp HashSet.pdb
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.csproj.AssemblyReference.cache
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.AssemblyInfoInputs.cache
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.AssemblyInfo.cs
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.csproj.CoreCompileInputs.cache
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.dll
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\refint\C-Sharp HashSet.dll
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.pdb
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\C-Sharp HashSet.genruntimeconfig.cache
+C:\Users\saims\Documents\Visual Studio Projects\C-Sharp HashSet\C-Sharp HashSet\obj\Debug\net7.0\ref\C-Sharp HashSet.dll
